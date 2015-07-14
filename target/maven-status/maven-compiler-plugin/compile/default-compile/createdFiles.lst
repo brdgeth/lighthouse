@@ -1,0 +1,11 @@
+com\hackathon\lighthouse\documents\TechCategory.class
+com\hackathon\lighthouse\documents\Interest.class
+com\hackathon\lighthouse\repository\CategoryRepository.class
+com\hackathon\lighthouse\formbeans\EnrolmentFormBean.class
+com\hackathon\lighthouse\documents\Enrolment.class
+com\hackathon\lighthouse\repository\EnrolmentRepository.class
+com\hackathon\lighthouse\TalkToMongo.class
+com\hackathon\lighthouse\documents\TechItem.class
+com\hackathon\lighthouse\repository\ItemRepository.class
+com\hackathon\lighthouse\controllers\EnrolmentController.class
+com\hackathon\lighthouse\controllers\HomeController.class
